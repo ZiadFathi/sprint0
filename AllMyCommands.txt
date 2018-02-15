@@ -1,0 +1,27 @@
+cd
+cd desktop
+clone http...
+git config -- global user.name "ZiadFathi"
+git config -- global user.email "Ziad.Fathi@student.guc.edu.eg"
+git init
+git add "section 1.1 Getting Started - About Version Control"
+git commit -m "section1"
+git add "section 3.1 Git Branching - Branches in a Nutshell"
+git commit -m "section2"
+git add "section 5.1 Distributed Git - Distributed Workflows"
+git commit -m "section3"
+git rm -rf "section 3.1 Git Branching - Branches in a Nutshell"
+git log
+git checkout -- "cimmit id" "commit name"
+git push origin master
+git branch ReadMe
+git checkout ReadMe
+git add README.md
+git commit -m "readme file"
+git push origin ReadMe
+git merge master
+accept the merge on githup
+git checkout master
+git add AllMyCommands.txt
+git commit -m "My Commands File"
+git push origin master
