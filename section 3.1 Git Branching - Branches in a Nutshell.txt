@@ -23,7 +23,7 @@ blobs, and one commit with the pointer to that root tree and all the commit meta
 56
 Figure 9. A commit and its tree
 If you make some changes and commit again, the next commit stores a pointer to the commit that
-came immediately before it.
+came immediately before it. 
 Figure 10. Commits and their parents
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch
 name in Git is master. As you start making commits, you’re given a master branch that points to the

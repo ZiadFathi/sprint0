@@ -73,4 +73,4 @@ you can see that many variations are possible to suit your particular real-world
 you can (hopefully) determine which workflow combination may work for you, we’ll cover some
 119
 more specific examples of how to accomplish the main roles that make up the different flows. In
-the next section, you’ll learn about a few common patterns for contributing to a project.
+the next section, you’ll learn about a few common patterns for contributing to a project. 

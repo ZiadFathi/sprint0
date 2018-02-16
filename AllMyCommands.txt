@@ -19,7 +19,7 @@
  -git add README.md
  -git commit -m "readme file"
  -git push origin ReadMe
- -git merge master
+ -git merge master 
  -accept the merge on githup
  -git checkout master
  -git add AllMyCommands.txt

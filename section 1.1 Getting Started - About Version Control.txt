@@ -19,7 +19,7 @@ To deal with this issue, programmers long ago developed local VCSs that had a si
 kept all the changes to files under revision control.
 5
 Figure 1. Local version control.
-One of the more popular VCS tools was a system called RCS, which is still distributed with many
+One of the more popular VCS  tools was a system called RCS, which is still distributed with many
 computers today. RCS works by keeping patch sets (that is, the differences between files) in a special
 format on disk; it can then re-create what any file looked like at any point in time by adding up all
 the patches.
@@ -55,3 +55,5 @@ Furthermore, many of these systems deal pretty well with having several remote r
 can work with, so you can collaborate with different groups of people in different ways
 simultaneously within the same project. This allows you to set up several types of workflows that
 aren’t possible in centralized systems, such as hierarchical models.
+
+done
